@@ -1,5 +1,5 @@
 - 👋 Hi, I'm beginners coder.
-- 👀 I'm interested in everse-engineering,, c++, typescript, lua.
+- 👀 I'm interested in reverse-engineering, c++, typescript, lua.
 - 🌱 I’m currently learning typescript.
 - 🔥 I mostly like C++, reverse-engineering.
 ---
